@@ -8,7 +8,8 @@
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 
 # Install jq
-sudo apt-get install -y jq
+sudo apt-get install -y jq 
+sudo apt-get install -y unzip
 
 # Install Terraform
 wget https://releases.hashicorp.com/terraform/0.12.29/terraform_0.12.29_linux_amd64.zip
